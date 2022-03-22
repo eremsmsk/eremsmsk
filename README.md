@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erem</h1>
 <h3 align="center">A passionate Frontend Developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eremsmsk&label=Profile%20views&color=0e75b6&style=flat" alt="eremsmsk" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=eremsmsk&label=Profile%20views&color=0e75b6&style=flat" alt="eremsmsk" /> </p>
 
 
 - 🌱 I’m currently learning **Javascript, VueJS**
