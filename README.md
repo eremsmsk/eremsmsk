@@ -1,4 +1,4 @@
-<h3 align="center">Software Engineer | Game Developer | Frontend Developer at <a href="https://www.corendonairlines.com" target="blank">Corendon Airlines</a></h3>
+<h3 align="center">Software Engineer | Game Developer | Frontend Developer at <a href="https://www.bilyoner.com" target="blank">Bilyoner</a></h3>
 <hr />
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=eremsmsk&label=Profile%20views&color=0e75b6&style=flat" alt="eremsmsk" /> </p>
 
